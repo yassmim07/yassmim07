@@ -1,5 +1,7 @@
 ## Olá, bem-vindo ao meu perfil!👋 
 
+\n
+\n
 
 
 - 🌱 Cursando o 3° semestre de Sistemas de Informação no Senac
