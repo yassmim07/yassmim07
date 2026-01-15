@@ -13,5 +13,5 @@
   </a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&layout=compact"/>
 
