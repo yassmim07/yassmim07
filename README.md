@@ -1,5 +1,5 @@
-# Olá, bem-vindo ao meu perfil👋 
-## Eu sou a Yasmim ☺️
+# Olá, bem-vindo ao meu perfil! Eu sou a Yasmim ☺️
+## Eu sou a Yasmim ☺️👋
 
 
 
