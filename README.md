@@ -1,4 +1,4 @@
-**`Back-end Developer`**
+**`Back-end Developer | DevOps Fundamentals`**
 
 
 ## Olá, bem-vindo(a) ao meu perfil! Eu sou a Yasmim Nascimento ☺️👋
