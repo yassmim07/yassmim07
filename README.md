@@ -3,8 +3,6 @@
 # Olá, bem-vindo ao meu perfil!  
 ## Eu sou a Yasmim ☺️👋
 
----
-
 - 🌱 Atualmente cursando o 3º semestre de Sistemas de Informação no Senac Santo Amaro 
 - 🔭 Estou em busca da minha primeira experiência no mercado de trabalho  
 - 📧 Contate-me no e-mail: yasmim.ca19@gmail.com
@@ -18,18 +16,23 @@
 </a>
   <br />
 
+---
+
 ### 📕 Estou aprendendo 
  <div align="left">
  <a href="https://skillicons.dev" >
   <img src="https://skillicons.dev/icons?i=python,javascript,git,powerbi&theme=dark" />
  </a>
 
+ ---
+
  ### 📊 Estatísticas
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassmim07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" heigth="150" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=7" heigth="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassmim07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" heigth="150em" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=7" heigth="150em" />
  </p>
 
+---
 
 ### 🌎 Conecte-se comigo
 <div align="center">
