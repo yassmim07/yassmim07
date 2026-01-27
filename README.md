@@ -27,20 +27,22 @@
  ---
 
  ### 📊 Estatísticas
-<p align="center">
+<p>
   <img 
-   align="left"
+   align="center"
    alt="GitHub Stats"
    heigth="200"
    style="padding-rigth: 10px;"
    src="https://github-readme-stats.vercel.app/api?username=yassmim07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
    /> 
+</p>
 
+<p>
   <img 
-   align="left"
+   align="center"
    alt="Tecnologias"
    heigth="200"
-   style="padding-rigth: 10px;"
+   style="padding-rigth: 50px;"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
    /> 
  </p>
