@@ -47,6 +47,9 @@
    /> 
  </p>
 
+ <br clear="both"/>
+
+
 ---
 
 ### 🌎 Conecte-se comigo
