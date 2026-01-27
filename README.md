@@ -22,7 +22,7 @@
 
  ### 📊 Estatísticas
 
- <p>
+ <div align="center">
   <img 
    align="left"
    alt="GitHub Stats"
@@ -36,9 +36,9 @@
    alt="Tecnologias"
    heigth="200"
    style="padding-rigth: 10px;"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=normal&custom_title=Tecnologias&langs_count=5"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
    /> 
- </p>
+ </div>
 <br>
 <br>
 
