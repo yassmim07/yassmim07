@@ -3,9 +3,13 @@
 # Olá, bem-vindo ao meu perfil!  
 ## Eu sou a Yasmim ☺️👋
 
+---
+
 - 🌱 Atualmente cursando o 3º semestre de Sistemas de Informação no Senac Santo Amaro 
 - 🔭 Estou em busca da minha primeira experiência no mercado de trabalho  
 - 📧 Contate-me no e-mail: yasmim.ca19@gmail.com
+
+---
 
 ### 🤖 Linguagens e Tecnologias
  <div align="left" >
