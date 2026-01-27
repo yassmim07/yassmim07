@@ -19,7 +19,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
 ### 🤖 Linguagens e Tecnologias
  <div align="left" >
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,javascript,mongodb,mysql,docker,azure,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,javascript,mongodb,mysql,docker,azure,nginx,github,vscode,figma&theme=dark" />
 </a>
   <br />
 
@@ -28,7 +28,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
 ### 📕 Estou aprendendo 
  <div align="left">
  <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=python,git,powerbi,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,githubactions,aws,postman&theme=dark" />
  </a>
 
  ---
