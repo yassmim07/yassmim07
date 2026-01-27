@@ -9,7 +9,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
 
 ### Formação acadêmica 💻
 
-> <strong>Técnico em Desenvolvimento de Sistemas | SENAI Suiço Brasileiro | Concluído </strong>
+> <strong>Técnico em Desenvolvimento de Sistemas | SENAI Suíço-Brasileira | Concluído </strong>
 
 > <strong>Bacharelado em Sistemas de Informação | SENAC Santo Amaro | Cursando (3° semestre) </strong>
 
