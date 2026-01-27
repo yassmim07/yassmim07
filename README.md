@@ -1,15 +1,17 @@
 **`Back-end Developer`**
 
+
 # Olá, bem-vindo ao meu perfil!  
 ## Eu sou a Yasmim ☺️👋
 
-- 🌱 Atualmente cursando o 3º semestre de Sistemas de Informação no Senac Santo Amaro
-- 🎓 Formada em Técnico em Desenvolvimento de Sistemas pelo Senai Suiço-Brasileira 
-- 🔭 Estou em busca da minha primeira experiência no mercado de trabalho  
-- 📧 Contate-me no e-mail: yasmim.ca19@gmail.com
-
 ## 💫 Sobre mim
 Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e aprendizado contínuo. Gosto de desenvolver soluções que tenham impacto real e que possam facilitar ou melhorar a vida das pessoas. Estou sempre buscando aprender novas ferramentas, evoluir tecnicamente e transformar ideias em projetos práticos.
+
+### Formação acadêmica 💻
+
+> <strong>Técnico em Desenvolvimento de Sistemas | SENAI Suiço Brasileiro | Concluído </strong>
+
+> <strong>Bacharelado em Sistemas de Informação | SENAC Santo Amaro | Cursando (3° semestre) </strong>
 
 
 ---
