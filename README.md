@@ -8,7 +8,7 @@
 ### 🤖 Linguagens e Tecnologias
  <div align="left" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ai,sklearn,flask,react,nodejs,docker,aws,github,git,vscode,postman,mongodb,postgres,hibernate,discord,linkedin,instagram&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,ai,sklearn,flask,nodejs,docker,azure,github,git,vscode,mongodb,hibernate,discord,linkedin,instagram&theme=dark" />
 </a>
   <br />
 
