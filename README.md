@@ -29,7 +29,7 @@
  ### 📊 Estatísticas
 <p>
   <img 
-   align="center"
+   align="left"
    alt="GitHub Stats"
    heigth="200"
    style="padding-rigth: 10px;"
@@ -39,11 +39,11 @@
 
 <p>
   <img 
-   align="center"
+   align="left"
    alt="Tecnologias"
    heigth="200"
-   style="padding-rigth: 50px;"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+   style="padding-rigth: 10px;"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=5"
    /> 
  </p>
 
