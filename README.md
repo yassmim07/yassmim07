@@ -28,7 +28,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
 ### 📕 Estou aprendendo 
  <div align="left">
  <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=python,git,githubactions,aws,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,githubactions,aws&theme=dark" />
  </a>
 
  ---
