@@ -1,11 +1,12 @@
 **`Back-end Developer`**
 
 
-# Olá, bem-vindo ao meu perfil!  
-## Eu sou a Yasmim ☺️👋
+## Olá, bem-vindo(a) ao meu perfil! Eu sou a Yasmim Nascimento ☺️👋
 
 ## 💫 Sobre mim
 Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e aprendizado contínuo. Gosto de desenvolver soluções que tenham impacto real e que possam facilitar ou melhorar a vida das pessoas. Estou sempre buscando aprender novas ferramentas, evoluir tecnicamente e transformar ideias em projetos práticos.
+
+---
 
 ### Formação acadêmica 💻
 
