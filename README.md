@@ -42,7 +42,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
    alt="GitHub Stats"
    heigth="200"
    style="padding-rigth: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=yassmim07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+   src="https://ghstats.vercel.app/api?username=yassmim07&show_icons=true&theme=github_dark&count_private=true"
    /> 
 </p>
 
@@ -52,7 +52,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
    alt="Tecnologias"
    heigth="200"
    style="padding-rigth: 10px;"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassmim07&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=5"
+   src="https://ghstats.vercel.app/api/top-langs/?username=yassmim07&layout=compact&langs_count=4&theme=github_dark&custom_title=Tecnologias"
    /> 
  </p>
 
