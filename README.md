@@ -30,7 +30,8 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
  
  <div align="left">
  <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=python,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=springboot,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=thymeleaf,githubactions&theme=dark" />
  </a>
 
  ---
