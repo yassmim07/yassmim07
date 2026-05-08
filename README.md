@@ -27,11 +27,10 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
 
 ### 🚀 Atualmente estudando
 
- 
- <div align="left">
- <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=springboot,thymeleaf&theme=dark" />
- </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" height="50" alt="Thymeleaf"/>
+</div>
 
  ---
 
