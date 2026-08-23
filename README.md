@@ -11,7 +11,7 @@ Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e apren
 
 > <strong>Técnico em Desenvolvimento de Sistemas | SENAI Suíço-Brasileira | Concluído </strong>
 
-> <strong>Bacharelado em Sistemas de Informação | SENAC Santo Amaro | Cursando (3° semestre) </strong>
+> <strong>Bacharelado em Sistemas de Informação | SENAC Santo Amaro | Cursando (4° semestre) </strong>
 
 
 ---
